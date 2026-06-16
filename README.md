@@ -33,18 +33,18 @@ ppt-to-speech converts a slide deck into a verbatim speech script with per-slide
 
 ### 🎓 Thesis / Proposal Defense
 
-**Script style: prosecutorial advocacy**
+**Script style: argumentative, not descriptive**
 
-You are being cross-examined. Every claim has a warrant; every limitation is acknowledged on your terms before the committee can pounce. Three question types drilled in advance — clarification, methodology challenges, and hostile pushback — including how to say "I don't have data on that" without losing the room.
+The same result slide sounds different at a defense. Instead of "this slide shows X," you say "based on Y, we argue X." Every sentence sounds like you're making a case, not reading aloud. The script gives your words the register of someone defending a position.
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Academic Conference Talk
 
-**Script style: surgical time allocation**
+**Script style: every word knows the clock**
 
-Time surgery first, writing second. Which slides to merge, which to cut — mapped before a word is written. The hardest part to improvise — the handoff sentence between slides — is already on the page. No awkward silence where the transition should be.
+Core slides get full weight; transition slides move fast. The hardest part to improvise — the handoff between slides — is already written. You always sound like you're in control of the pace, not racing to finish.
 
 </td>
 </tr>
@@ -53,9 +53,9 @@ Time surgery first, writing second. Which slides to merge, which to cut — mapp
 
 ### 🗣️ Panel / Roundtable
 
-**Script style: modular argument blocks**
+**Script style: conversational, not presentational**
 
-Not a linear script — a set of talking-point cards you can deploy in any order. Opening position, reorderable arguments, and reaction lines for picking up a co-panelist's thread. You respond to what's actually said, not what you rehearsed.
+Same content, different mode: you're not delivering from start to finish — you're responding, building, redirecting. The script is a set of detachable argument cards, not linear paragraphs, so you can pick up any thread at any moment rather than waiting for your turn.
 
 </td>
 <td width="50%" valign="top">
@@ -64,7 +64,7 @@ Not a linear script — a set of talking-point cards you can deploy in any order
 
 **Script style: narrative arc first**
 
-Hook before numbers. Emotional pacing carries the audience forward; data slides slow down, context slides speed up. Q&A targets your weakest slide directly — unit economics, moat, and the question you've been hoping nobody asks — with a composed answer ready.
+The same numbers slide reads differently in a pitch: conclusion first, then the figure — not the other way around. The script lets the emotional curve carry the audience; data slides slow down, context slides speed up. They follow your rhythm, not the deck's.
 
 </td>
 </tr>
