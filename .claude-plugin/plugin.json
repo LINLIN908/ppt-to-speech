@@ -1,0 +1,12 @@
+{
+  "name": "ppt-to-speech",
+  "version": "1.0.0",
+  "description": "Turn a PowerPoint deck into a ready-to-deliver speech script, speaker notes written back into the deck, and Q&A preparation. Covers thesis/proposal defense, academic conference talk, panel/roundtable, and founding pitch (investor pitch, demo day).",
+  "author": "linlin",
+  "keywords": [
+    "presentation", "speech", "pptx", "slides", "pitch", "defense",
+    "academic", "conference", "panel", "演讲稿", "答辩", "路演"
+  ],
+  "license": "MIT",
+  "skills": ["ppt-to-speech"]
+}
