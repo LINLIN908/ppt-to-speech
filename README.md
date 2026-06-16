@@ -1,5 +1,7 @@
 # ppt-to-speech
 
+[简体中文版](README.zh-CN.md) | English
+
 A Claude skill that turns your finished slide deck into something you can actually *say* — a verbatim speech script with per-slide timing, speaker notes written back into your .pptx, and a Q&A preparation kit with anticipated questions from novice, expert, and skeptic audience members.
 
 **The pain point**: you've made the slides, but you don't know how to open your mouth.
