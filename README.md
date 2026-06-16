@@ -1,10 +1,29 @@
+<div align="center">
+
 # ppt-to-speech
 
-[简体中文版](README.zh-CN.md) | English
+**Turn your finished slides into words you can actually say.**
 
-A Claude skill that turns your finished slide deck into something you can actually *say* — a verbatim speech script with per-slide timing, speaker notes written back into your .pptx, and a Q&A preparation kit with anticipated questions from novice, expert, and skeptic audience members.
+*"The deck is done. Now what do I say?"*
 
-**The pain point**: you've made the slides, but you don't know how to open your mouth.
+![](https://img.shields.io/badge/Claude%20Code-Skill-4CAF50?style=flat-square&labelColor=222222)
+![](https://img.shields.io/badge/Runtime-Claude%20Code-7C3AED?style=flat-square&labelColor=444444)
+![](https://img.shields.io/badge/Language-EN%20%2F%20ZH-2563EB?style=flat-square&labelColor=444444)
+![](https://img.shields.io/badge/License-MIT-111111?style=flat-square&labelColor=444444)
+
+ppt-to-speech converts a slide deck into a verbatim speech script with per-slide timing, speaker notes written back into your .pptx, and a Q&A prep kit with anticipated questions from novice, expert, and skeptic perspectives.
+
+[Scenarios](#scenarios) · [What Makes It Different](#what-makes-the-output-different-from-just-ask-chatgpt) · [Install](#install) · [Theory](#theoretical-grounding) · [Structure](#structure)
+
+---
+
+**其他语言 / Other Languages:**
+
+[简体中文](README.zh-CN.md)
+
+</div>
+
+---
 
 ## Scenarios
 

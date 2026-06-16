@@ -1,10 +1,29 @@
+<div align="center">
+
 # ppt-to-speech
 
-English | [简体中文版](README.zh-CN.md)
+**把你的 PPT 变成你真正能开口说的东西。**
 
-把做好的 PPT 变成你真正能开口说的东西——逐字演讲稿（含每张幻灯片时长标注）、写回 .pptx 备注栏的提词稿，以及一份 Q&A 备战手册（涵盖新手、专家、质疑者三类听众可能提的问题）。
+「幻灯片做完了，不知道嘴上怎么说。」
 
-**痛点**：幻灯片做完了，不知道嘴上怎么说。
+![](https://img.shields.io/badge/Claude%20Code-Skill-4CAF50?style=flat-square&labelColor=222222)
+![](https://img.shields.io/badge/运行环境-Claude%20Code-7C3AED?style=flat-square&labelColor=444444)
+![](https://img.shields.io/badge/语言-中文%20%2F%20英文-2563EB?style=flat-square&labelColor=444444)
+![](https://img.shields.io/badge/许可证-MIT-111111?style=flat-square&labelColor=444444)
+
+ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，标注每张幻灯片的时长，将脚本写回 .pptx 备注栏，并生成一份 Q&A 备战手册——涵盖新手、专家、质疑者三类听众可能提出的问题。
+
+[使用场景](#使用场景) · [跟直接问 ChatGPT 的区别](#跟直接问-chatgpt-的区别) · [安装](#使用方法) · [理论依据](#理论依据) · [目录结构](#目录结构)
+
+---
+
+**Other Languages:**
+
+[English](README.md)
+
+</div>
+
+---
 
 ## 支持场景
 
