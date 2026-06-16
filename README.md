@@ -27,12 +27,48 @@ ppt-to-speech converts a slide deck into a verbatim speech script with per-slide
 
 ## Scenarios
 
-| Scenario | What you get |
-|---|---|
-| 🎓 Thesis / proposal defense (学位答辩) | Defensible script with explicit warrants, limitation–mitigation pairs, committee Q&A drill |
-| 📊 Conference talk (会议报告) | Time-triage plan (which slides to cut/merge), hook-first script, 30-second Q&A answers with offline-redirect moves |
-| 🗣️ Panel / roundtable (圆桌) | Position kit: opening statement, reorderable talking points, co-panelist reaction lines |
-| 🚀 Founding pitch (融资路演) | Hook-first talk track, traction-slide pacing, investor Q&A (unit economics, moats, the question you fear) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Thesis / Proposal Defense
+
+**Script style: prosecutorial advocacy**
+
+You are being cross-examined. Every claim has a warrant; every limitation is acknowledged on your terms before the committee can pounce. Three question types drilled in advance — clarification, methodology challenges, and hostile pushback — including how to say "I don't have data on that" without losing the room.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Academic Conference Talk
+
+**Script style: surgical time allocation**
+
+Time surgery first, writing second. Which slides to merge, which to cut — mapped before a word is written. The hardest part to improvise — the handoff sentence between slides — is already on the page. No awkward silence where the transition should be.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ Panel / Roundtable
+
+**Script style: modular argument blocks**
+
+Not a linear script — a set of talking-point cards you can deploy in any order. Opening position, reorderable arguments, and reaction lines for picking up a co-panelist's thread. You respond to what's actually said, not what you rehearsed.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Founding Pitch / Demo Day
+
+**Script style: narrative arc first**
+
+Hook before numbers. Emotional pacing carries the audience forward; data slides slow down, context slides speed up. Q&A targets your weakest slide directly — unit economics, moat, and the question you've been hoping nobody asks — with a composed answer ready.
+
+</td>
+</tr>
+</table>
 
 Both **English and Chinese** are first-class, including the common mixed case (English slides, Chinese delivery).
 
