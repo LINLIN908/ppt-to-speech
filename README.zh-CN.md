@@ -27,6 +27,8 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 
 ## 支持场景
 
+![四个演讲场景示意图](assets/scenarios-banner.png)
+
 <table>
 <tr>
 <td width="50%" valign="top">
