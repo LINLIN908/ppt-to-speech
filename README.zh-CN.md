@@ -27,13 +27,12 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 
 ## 支持场景
 
-<div align="center">
-
-![四个演讲场景示意图](assets/scenarios-banner.png)
-
-</div>
-
 <table>
+<tr>
+<td colspan="4" align="center" style="padding:0">
+<img src="assets/scenarios-banner.png" width="100%">
+</td>
+</tr>
 <tr>
 <td width="25%" align="center" valign="top">
 
