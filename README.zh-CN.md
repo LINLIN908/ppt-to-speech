@@ -27,41 +27,17 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 
 ## 支持场景
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td colspan="4" align="center" style="padding:0">
+<td colspan="4" style="padding:0">
 <img src="assets/scenarios-banner.png" width="100%">
 </td>
 </tr>
 <tr>
-<td width="25%" align="center" valign="top">
-
-**说服式辩护**
-
-每句话像在答话，而不是朗读
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**每句话感知时间**
-
-核心放慢、过渡加速，衔接句已写好
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**对话式，非演讲式**
-
-随时能接住话头的论点卡
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**叙事弧线驱动**
-
-结论先于数字，情绪带着听众走
-
-</td>
+<td width="25%" align="center" valign="top" style="padding:12px 6px"><strong>说服式辩护</strong><br><br>每句话像在答话，而不是朗读</td>
+<td width="25%" align="center" valign="top" style="padding:12px 6px"><strong>每句话感知时间</strong><br><br>核心放慢、过渡加速，衔接句已写好</td>
+<td width="25%" align="center" valign="top" style="padding:12px 6px"><strong>对话式，非演讲式</strong><br><br>随时能接住话头的论点卡</td>
+<td width="25%" align="center" valign="top" style="padding:12px 6px"><strong>叙事弧线驱动</strong><br><br>结论先于数字，情绪带着听众走</td>
 </tr>
 </table>
 
