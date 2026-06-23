@@ -37,16 +37,12 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 <tr>
 <td width="25%" align="center" valign="top">
 
-🎓 **学位答辩**<br>开题答辩
-
 **说服式辩护**
 
-每句话听起来像在答话，而不是朗读
+每句话像在答话，而不是朗读
 
 </td>
 <td width="25%" align="center" valign="top">
-
-📊 **学术会议报告**
 
 **每句话感知时间**
 
@@ -55,16 +51,12 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 </td>
 <td width="25%" align="center" valign="top">
 
-🗣️ **圆桌论坛**<br>研讨会
-
 **对话式，非演讲式**
 
 随时能接住话头的论点卡
 
 </td>
 <td width="25%" align="center" valign="top">
-
-🚀 **融资路演**<br>Demo Day
 
 **叙事弧线驱动**
 
@@ -74,7 +66,7 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 </tr>
 </table>
 
-<div align="center"><sub>中英双语均为一等公民，完整支持"英文幻灯片、中文讲"的常见混合场景</sub></div>
+<div align="center"><sub>同一份 PPT，场景不同，说话方式就不同——脚本风格随场景而变，而不是套用同一个模板。</sub></div>
 
 ## 使用方法
 
