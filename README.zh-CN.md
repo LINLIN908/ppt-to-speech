@@ -32,7 +32,7 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 <td width="25%" align="center" valign="top">
 <img src="assets/panel-1.png" width="100%"><br><br>
 <strong>说服式辩护</strong><br><br>
-每句话像在答话，而不是朗读
+听起来你在立论，而不是在念稿
 </td>
 <td width="25%" align="center" valign="top">
 <img src="assets/panel-2.png" width="100%"><br><br>
@@ -42,7 +42,7 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 <td width="25%" align="center" valign="top">
 <img src="assets/panel-3.png" width="100%"><br><br>
 <strong>对话式，非演讲式</strong><br><br>
-随时能接住话头的论点卡
+别人说完，你知道接什么
 </td>
 <td width="25%" align="center" valign="top">
 <img src="assets/panel-4.png" width="100%"><br><br>
