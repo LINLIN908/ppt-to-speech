@@ -81,17 +81,26 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 
 ## 理论依据
 
-场景参考文件建立在演讲与论证研究的基础上，而非经验之谈：
+每个场景的脚本逻辑各有来源，不共用同一套框架：
 
-- Mayer, R. E. — *Multimedia Learning*（冗余原则：口头叙述不应重复屏幕文字）
-- Sweller, J. — 认知负荷理论（口语句式需比书面句式更简洁；听觉处理有认知成本）
-- Toulmin, S. — *The Uses of Argument*（Q&A 生成 = 攻击论据和支撑）
-- Hyland, K. — 学术话语中的模糊限制语与元话语（答辩中的论点校准）
-- Swales, J. — CARS 模型（口头动机陈述段的结构）
-- Alley, M. — *The Craft of Scientific Presentations*（幻灯片与脚本的分工：断言 vs 证据）
-- Monroe's Motivated Sequence（路演叙事弧）
-- Chen, X.-P., Yao, X., & Kotha, S. (2009). Entrepreneur passion and preparedness in business plan presentations. *Academy of Management Journal*（准备充分比激情表现更重要——这就是为什么 Q&A 备战占了产品价值的一半）
-- Heath & Heath — *Made to Stick*；Duarte, N. — *Resonate*（具体化、对比结构）
+**🎓 学位答辩**
+- Toulmin, S. — *The Uses of Argument*：论点需有支撑和支持，Q&A 本质是对论据的攻击
+- Hyland, K. — 学术话语中的模糊限制语与元话语：论点校准，知道什么时候该说"我们认为"而不是"我们证明了"
+- Swales, J. — CARS 模型：口头动机陈述段的结构，如何开场才能让评委快速理解你的研究位置
+
+**📊 学术会议报告**
+- Mayer, R. E. — *Multimedia Learning*：冗余原则——口头叙述不应重复屏幕上已有的文字
+- Sweller, J. — 认知负荷理论：听觉处理有成本，口语句式必须比书面句式更简洁
+- Alley, M. — *The Craft of Scientific Presentations*：幻灯片与脚本的分工——断言在幻灯片，证据在脚本
+
+**🗣️ 圆桌论坛 / 研讨会**
+- Goffman, E. — 互动仪式与话轮转换：圆桌的核心不是演说，而是接话时机与立场维护
+- Heath & Heath — *Made to Stick*：观点要具体、可记忆，才能在讨论中被引用和传播
+
+**🚀 融资路演**
+- Monroe's Motivated Sequence：注意→需求→满足→可视化→行动，路演叙事弧的经典结构
+- Chen, X.-P., Yao, X., & Kotha, S. (2009). *Academy of Management Journal*：准备充分比激情表现更重要——Q&A 备战是路演成败的关键变量
+- Duarte, N. — *Resonate*：对比结构（现状 vs 未来）驱动听众情绪，而非数据本身
 
 ## 目录结构
 
