@@ -37,7 +37,7 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 <td width="25%" align="center" valign="top">
 <img src="assets/panel-2.png" width="100%"><br><br>
 <strong>每句话感知时间</strong><br><br>
-快慢有别，不留卡壳
+核心放慢、过渡加速、不留空档
 </td>
 <td width="25%" align="center" valign="top">
 <img src="assets/panel-3.png" width="100%"><br><br>
