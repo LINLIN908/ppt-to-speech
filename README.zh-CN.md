@@ -87,15 +87,47 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 
 **🎓 学位答辩 / 开题答辩**
 
-| 作用 | 文献 |
-|---|---|
-| **Q&A 备战** | Toulmin, S. E. (1958). *The Uses of Argument*. Cambridge University Press. |
-| **措辞分寸** | Hyland, K. (2005). *Metadiscourse: Exploring Interaction in Writing*. Continuum. |
-| **开场结构** | Swales, J. M. (1990). *Genre Analysis: English in Academic and Research Settings*. Cambridge University Press. |
+**Toulmin 论证模型 — Q&A 备战**
 
-- **Q&A 备战**：评委的追问几乎都在攻击论证的某个环节。Toulmin 模型让脚本提前把"数据→结论"之间的推理链说出来，而不是留给评委去质疑。
-- **措辞分寸**：每个动词都有学术信号——"suggest"还是"demonstrate"，"associated with"还是"leads to"。Hyland 的研究指导脚本按证据强度校准每个论点的表达力度，避免过度主张。
-- **开场结构**：Swales 的 CARS 模型（建立领域→找缺口→填补缺口）直接对应答辩的前 45 秒，让评委在开场就明白"这个领域缺什么、你做了什么"。
+答辩的 Q&A 本质是评委在逐层攻击你的论证结构。Toulmin 模型把任何一个论点拆成六个部件，脚本需要把每一层都备好：
+
+| 部件 | 含义 | 在脚本中的体现 |
+|:---:|---|---|
+| 主张 (Claim) | 你的结论 | 每张结果幻灯片的核心句 |
+| 数据 (Data) | 支持主张的证据 | 样本量、统计结果、实验数据 |
+| 论据 (Warrant) | 数据→主张的推理桥梁 | "之所以能从这个数据得出这个结论，是因为……" |
+| 支撑 (Backing) | 论据本身的合理性来源 | 方法论选择的理由、测量工具的效度 |
+| 限定词 (Qualifier) | 结论的适用范围 | "在……条件下"、"就……而言" |
+| 反驳条件 (Rebuttal) | 结论不成立的情形 | 局限性，以及你如何提前承认它 |
+
+评委追问通常分两层：先攻 Warrant（"凭什么从这个数据得出这个结论？"），再攻 Backing（"这个方法本身合理吗？"）。脚本提前把 Warrant 说出来，评委就少一个追问的入口。
+
+---
+
+**Hyland 元话语理论 — 措辞分寸**
+
+Hyland 研究的是学术话语中说话人如何标记自己对论点的把握程度。核心发现：学术可信度不来自斩钉截铁，而来自用词准确反映证据强度。
+
+脚本的校准规则：
+
+| 证据强度 | 使用动词 |
+|:---:|---|
+| 随机对照实验 | demonstrates / proves |
+| 相关研究、观察数据 | suggests / indicates |
+| 理论推断、经验判断 | we propose / we speculate |
+| 无法推断因果时 | is associated with（禁用 leads to / improves / causes） |
+
+---
+
+**Swales CARS 模型 — 开场结构**
+
+CARS（Create A Research Space）描述如何用三步建立研究的必要性：
+
+1. **建立领域** — 这个问题为什么重要、领域现状是什么
+2. **找到缺口** — 现有研究缺少什么、留下了什么问题
+3. **填补缺口** — 你的研究做了什么、贡献是什么
+
+答辩开场的前 45 秒照这三步走，评委在第一分钟内就能定位你的研究，而不是等你讲完方法才搞清楚"这个研究是干嘛的"。
 
 ---
 
