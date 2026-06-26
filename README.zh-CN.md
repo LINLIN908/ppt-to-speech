@@ -81,26 +81,65 @@ ppt-to-speech 帮你把做好的幻灯片转化为可直接朗读的逐字稿，
 
 ## 理论依据
 
-每个场景的脚本逻辑各有来源，不共用同一套框架：
+每个场景的脚本逻辑各有来源，不共用同一套框架。
 
-**🎓 学位答辩**
-- Toulmin, S. — *The Uses of Argument*：论点需有支撑和支持，Q&A 本质是对论据的攻击
-- Hyland, K. — 学术话语中的模糊限制语与元话语：论点校准，知道什么时候该说"我们认为"而不是"我们证明了"
-- Swales, J. — CARS 模型：口头动机陈述段的结构，如何开场才能让评委快速理解你的研究位置
+---
+
+**🎓 学位答辩 / 开题答辩**
+
+| 作用 | 文献 |
+|---|---|
+| **Q&A 备战** | Toulmin, S. E. (1958). *The Uses of Argument*. Cambridge University Press. |
+| **措辞分寸** | Hyland, K. (2005). *Metadiscourse: Exploring Interaction in Writing*. Continuum. |
+| **开场结构** | Swales, J. M. (1990). *Genre Analysis: English in Academic and Research Settings*. Cambridge University Press. |
+
+- **Q&A 备战**：评委的追问几乎都在攻击论证的某个环节。Toulmin 模型让脚本提前把"数据→结论"之间的推理链说出来，而不是留给评委去质疑。
+- **措辞分寸**：每个动词都有学术信号——"suggest"还是"demonstrate"，"associated with"还是"leads to"。Hyland 的研究指导脚本按证据强度校准每个论点的表达力度，避免过度主张。
+- **开场结构**：Swales 的 CARS 模型（建立领域→找缺口→填补缺口）直接对应答辩的前 45 秒，让评委在开场就明白"这个领域缺什么、你做了什么"。
+
+---
 
 **📊 学术会议报告**
-- Mayer, R. E. — *Multimedia Learning*：冗余原则——口头叙述不应重复屏幕上已有的文字
-- Sweller, J. — 认知负荷理论：听觉处理有成本，口语句式必须比书面句式更简洁
-- Alley, M. — *The Craft of Scientific Presentations*：幻灯片与脚本的分工——断言在幻灯片，证据在脚本
+
+| 作用 | 文献 |
+|---|---|
+| **不复述幻灯片** | Mayer, R. E. (2009). *Multimedia Learning* (2nd ed.). Cambridge University Press. |
+| **口语句式设计** | Sweller, J. (1988). Cognitive load during problem solving. *Cognitive Science*, 12(2), 257–285. |
+| **幻灯片与脚本分工** | Alley, M. (2013). *The Craft of Scientific Presentations* (2nd ed.). Springer. |
+| **开场钩子** | Monroe, A. H. (1935). *Principles and Types of Speech*. Scott, Foresman. |
+
+- **不复述幻灯片**：Mayer 的冗余原则证明口头重复屏幕文字会加重认知负担。脚本只写幻灯片上没有的内容——推理、转折、强调。
+- **口语句式设计**：Sweller 的认知负荷理论说明听觉处理有成本，脚本的句子比论文更短，核心幻灯片放慢语速，让听众的工作记忆有余地跟上。
+- **幻灯片与脚本分工**：Alley 的断言-证据框架——主张写在幻灯片上，推理和证据在脚本里，两者不重叠，各自承担不同的信息层。
+- **开场钩子**：即使是学术听众也需要在前 30 秒获得一个继续听下去的理由。Monroe 的注意力步骤指导脚本用结果或悖论开场，而不是从"今天我要讲……"开始。
+
+---
 
 **🗣️ 圆桌论坛 / 研讨会**
-- Goffman, E. — 互动仪式与话轮转换：圆桌的核心不是演说，而是接话时机与立场维护
-- Heath & Heath — *Made to Stick*：观点要具体、可记忆，才能在讨论中被引用和传播
 
-**🚀 融资路演**
-- Monroe's Motivated Sequence：注意→需求→满足→可视化→行动，路演叙事弧的经典结构
-- Chen, X.-P., Yao, X., & Kotha, S. (2009). *Academy of Management Journal*：准备充分比激情表现更重要——Q&A 备战是路演成败的关键变量
-- Duarte, N. — *Resonate*：对比结构（现状 vs 未来）驱动听众情绪，而非数据本身
+| 作用 | 文献 |
+|---|---|
+| **立场清晰度** | Aristotle. *Rhetoric*. |
+| **Speaker positioning** | Hyland, K. (2005). *Metadiscourse: Exploring Interaction in Writing*. Continuum. |
+| **论点单元设计** | Sweller, J. (1988). 同上. |
+
+- **立场清晰度**：Aristotle 的 ethos 理论——公信力来自愿意说出一个可被反驳的立场。脚本帮你把"我觉得这很重要"变成具体可争辩的观点。
+- **Speaker positioning**：圆桌上每句话都在标记你与议题、与其他发言者的关系。Hyland 的研究指导脚本预先确定每个立场的措辞方向。
+- **论点单元设计**：听众同时跟踪多位发言者，认知负载更高。Sweller 的理论要求每条论点自成一个完整单元，不依赖上下文也能被独立理解。
+
+---
+
+**🚀 融资路演 / Demo Day**
+
+| 作用 | 文献 |
+|---|---|
+| **叙事弧线结构** | Monroe, A. H. (1935). *Principles and Types of Speech*. Scott, Foresman. |
+| **Q&A 备战权重** | Chen, X.-P., Yao, X., & Kotha, S. (2009). Entrepreneur passion and preparedness in business plan presentations. *Academy of Management Journal*, 52(1), 199–214. |
+| **情绪驱动逻辑** | Duarte, N. (2010). *Resonate: Present Visual Stories that Transform Audiences*. Wiley. |
+
+- **叙事弧线结构**：Monroe 的 Motivated Sequence（注意→需求→满足→可视化→行动）直接对应路演的钩子→痛点→方案→牵引力→融资请求，确保听众的情绪和逻辑同步推进。
+- **Q&A 备战权重**：Chen et al. 的研究证明 VC 的决策更受准备充分度影响，而非创始人当场的激情。这是路演脚本把单位经济、护城河、最难回答的问题放在与正稿同等重要位置的依据。
+- **情绪驱动逻辑**：Duarte 的对比结构（现状 vs 未来）说明听众的行动意愿由情绪弧线驱动，而非数据堆砌。脚本在数字幻灯片前后设计情绪的高低切换。
 
 ## 目录结构
 
